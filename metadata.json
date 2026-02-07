@@ -1,0 +1,9 @@
+{
+  "name": "Job Seekers AI - NextGen Career Platform",
+  "description": "A sophisticated job finder and career growth platform powered by Gemini AI. Features include AI resume analysis, voice-enabled mock interviews, live job search grounding, and smart company mapping.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
